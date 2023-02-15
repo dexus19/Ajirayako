@@ -1,0 +1,23 @@
+#feed{
+    color: rgb(46, 40, 53);
+    background: rgb(206, 220, 222);
+    margin: 20px;
+  
+
+    
+    
+}
+h3{
+    margin: 3px;
+    margin-left: 17px;
+    text-decoration-color: yellowgreen;
+    font-family:sans-serif;
+}
+a{
+     text-decoration: none;
+}
+p{
+    margin-left: 18px;
+    background: #fff;
+    width: fit-content
+}
